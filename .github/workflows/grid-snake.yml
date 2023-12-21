@@ -25,7 +25,7 @@ jobs:
       - uses: actions/checkout@v4
 
     # Generates the snake
-      - uses: Platane/snk/svg-only@master
+      - uses: Platane/snk/svg-only@3
         id: snake-gif
         with:
           github_user_name: adilhyz
