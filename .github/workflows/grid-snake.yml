@@ -23,7 +23,6 @@ jobs:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v4
-      - name: Generate github-contribution-grid-snake.svg
 
     # Generates the snake
       - uses: Platane/snk/svg-only@v2
