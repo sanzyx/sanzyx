@@ -21,8 +21,8 @@ Welcome to my profile. There are a few things you can see here, but just make su
 ![CSS](https://img.shields.io/badge/-CSS-555?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=001337)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-555?style=for-the-badge&logo=HTML5&labelColor=001337)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-555?style=for-the-badge&logo=php&labelColor=001337)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-555?style=for-the-badge&logo=laravel&labelColor=001337)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-555?style=for-the-badge&logo=bootstrap&labelColor=001337)&nbsp;
-![Markdown](https://img.shields.io/badge/Markdown-555?style=for-the-badge&logo=markdown&logoColor=red&labelColor=001337)&nbsp;
 ![Hugo](https://img.shields.io/badge/Hugo-555?style=for-the-badge&logo=hugo&labelColor=001337)&nbsp;\
 ![Windows](https://img.shields.io/badge/Windows-555?style=for-the-badge&logo=windows&logoColor=blue&labelColor=001337)&nbsp;
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-555?style=for-the-badge&logo=arch-linux&labelColor=001337)&nbsp;
@@ -31,7 +31,10 @@ Welcome to my profile. There are a few things you can see here, but just make su
 ![SublimeText](https://img.shields.io/badge/Sublime%20Text-555?style=for-the-badge&logo=sublime%20text&labelColor=001337)&nbsp;
 ![Neovim](https://img.shields.io/badge/Neovim-555?&style=for-the-badge&logo=neovim&labelColor=001337)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-555?style=for-the-badge&logo=git&labelColor=001337)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-555?style=for-the-badge&logo=heroku&logoColor=%235b27b4&labelColor=001337)&nbsp;
+
+<p align="center">
+    <img src = "https://discord.c99.nl/widget/theme-1/874129346376392734.png">
+</p>
 
 <!-- grid-snake -->
 ### 📈 Github Activity Graph
