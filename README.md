@@ -1,8 +1,8 @@
 ## About Me
 
 - 🎧 Chillin' with `Pixels`
-- ☕ Caffein: my home icy companion
-- 🐧 Linux on the Rocks
+- 👾 Dim not extinguished
+- 💬 Linux on the Rocks
 
 <p align="center">   
   <!--img src="https://moe-counter.glitch.me/get/@adilhyz?theme=rule34"><br/><br/-->
