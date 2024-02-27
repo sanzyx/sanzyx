@@ -31,7 +31,8 @@
 ![Git](https://img.shields.io/badge/-Git-555?style=social&logo=git&labelColor=001337)&nbsp;
 
 <p align="center">
-    <img align src="https://discord.c99.nl/widget/theme-4/874129346376392734.png">
+    <!--img align src="https://discord.c99.nl/widget/theme-4/874129346376392734.png"-->
+    <img align src="https://lanyard.cnrad.dev/api/874129346376392734?theme=dark&bg=161a22&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=%20⌨%20AFK...">
 </p>
 
 <!-- grid-snake
